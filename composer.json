@@ -1,5 +1,5 @@
 {
-    "name": "ybelenko/openapi-data-mocker-server-middleware",
+    "name": "anttikuuskoski/openapi-data-mocker-server-middleware",
     "description": "PSR-15 HTTP Server Middleware to create mock responses from OpenAPI Schemas(OAS 3.0).",
     "type": "library",
     "license": "MIT",
